@@ -1,3 +1,5 @@
+![https://img.shields.io/github/issues/beygee/survive]()
+
 # About Us
 
 Develable
