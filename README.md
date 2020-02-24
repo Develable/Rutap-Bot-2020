@@ -1,4 +1,4 @@
-![img](https://img.shields.io/github/issues/beygee/survive)
+![GitHub package.json dependency version (prod)](https://img.shields.io/github/package-json/dependency-version/develable/Rutap-Bot-2020/discord.py?style=for-the-badge) [![GitHub license](https://img.shields.io/github/license/develable/Rutap-Bot-2020?style=for-the-badge)](https://github.com/develable/Rutap-Bot-2020) [![GitHub issues](https://img.shields.io/github/issues/develable/Rutap-Bot-2020?style=for-the-badge)](https://github.com/develable/Rutap-Bot-2020/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/develable/Rutap-Bot-2020?style=for-the-badge)](https://github.com/develable/Rutap-Bot-2020/pulls) 
 
 # About Us
 
