@@ -1,4 +1,4 @@
-![https://img.shields.io/github/issues/beygee/survive]()
+![img](https://img.shields.io/github/issues/beygee/survive)
 
 # About Us
 
