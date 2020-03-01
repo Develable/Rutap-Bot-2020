@@ -15,6 +15,7 @@ Whatever you imagine, We develop.
 특히 이번 D20 버전은 Node.js로 개발되어 좀 더 높은 안정성과 빠른 응답속도, 다양한 기능을 준비중에 있습니다
 
 기획 - [화향](https://hwahyang.space)
+
 개발 - [화향](https://hwahyang.space), [Tilto](https://tilto.kro.kr/)
 
 ## Version History
