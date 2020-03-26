@@ -1,6 +1,6 @@
 [![GitHub license](https://img.shields.io/github/license/develable/Rutap-Bot-2020?style=for-the-badge)](https://github.com/develable/Rutap-Bot-2020) [![GitHub issues](https://img.shields.io/github/issues/develable/Rutap-Bot-2020?style=for-the-badge)](https://github.com/develable/Rutap-Bot-2020/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr/develable/Rutap-Bot-2020?style=for-the-badge)](https://github.com/develable/Rutap-Bot-2020/pulls) 
 
-Badge 222
+(세컨 뱃지 공간)
 
 # About Us
 
@@ -15,10 +15,6 @@ Whatever you imagine, We develop.
 프로젝트 루탑봇은 잠수부터 시작하여 환영말, 경고, 커스텀커맨드 등 여러 편리한 기능을 갖추고 있습니다
 
 특히 이번 D20 버전은 Node.js로 개발되어 좀 더 높은 안정성과 빠른 응답속도, 다양한 기능을 준비중에 있습니다
-
-기획 - [화향](https://hwahyang.space)
-
-개발 - [화향](https://hwahyang.space), [Tilto](https://tilto.kro.kr/)
 
 ## Version History
 
@@ -50,7 +46,11 @@ Whatever you imagine, We develop.
 
 # Copyright
 
-루탑봇 소스에 대한 저작권은 Develable에서 소유합니다. 모든 권리를 보유합니다.
+Planning by. 화향 of Develable.
+
+Develop by. 화향, Tilto of Develable.
+
+© 2017-2020 Develable.
 
 # License
 
