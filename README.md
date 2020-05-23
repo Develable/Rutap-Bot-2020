@@ -32,18 +32,6 @@ Whatever you imagine, We develop.
 
 [담당자 틸토 이메일](mailto:tilto0822@develable.xyz)
 
-# How to Invite
-
-**현재 개발중입니다.**
-
-# Requirements
-
-**현재 개발중입니다.**
-
-# Self-Hosting
-
-**현재 개발중입니다.**
-
 # Copyright
 
 Planning by. 화향 of Develable.
