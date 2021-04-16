@@ -1,0 +1,14 @@
+{
+    "WIDNR-ASE5D-AW25D-15WDF" : {
+        "Issuer": "Usrid",
+        "type" : "once", # once는 일회용, speed는 선착순, every는 무제한
+        "count" : 1, # -1이면 비활성화(무제한)
+        "usingGuild" : ["guildid1"]
+    },
+    "NVPKJ-QWESA-ZJDUR-TUEDF" : {
+        "Issuer": "Usrid",
+        "type" : "speed", # once는 일회용, speed는 선착순, every는 무제한
+        "count" : 30, # -1이면 비활성화(무제한)
+        "usingGuild" : ["guildid1", "guildid2"]
+    }
+}

@@ -1,0 +1,5 @@
+node_modules
+logs/*_*/*
+logs/errs.log
+#src/settings/private_settings.json
+#develable_rutapbot (old).sql

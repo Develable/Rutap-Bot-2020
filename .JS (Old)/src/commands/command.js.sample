@@ -1,0 +1,28 @@
+// node_modules
+const Discord = require('discord.js');
+
+// 자체 모듈
+const err_module = require('./../../lib/err_perform.js');
+
+// settings
+const d_settings = require('./../../settings/default_settings.js');
+
+// 명령어 모듈 한정 :: 명령어 설명 정의
+exports.dscr = {
+    description : '',
+    use : [``]
+}
+
+// 명령어 치면 돌아가는 구역
+exports.run = (dscl, message, args, opti) => {
+    
+}
+
+// Mysql을 사용하시려면,
+sql.connection.query("sql 구문", [인젝션 방지용 list], (err, rows, fields) => {
+    if (err) {
+        err_module.performerr(dscl, message, err);
+        return;
+    }
+
+});

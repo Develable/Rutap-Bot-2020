@@ -1,0 +1,22 @@
+{
+  "name": "rutap-d20",
+  "version": "1.0.0",
+  "description": "[KR] Rutap Bot will makes your discord life better!",
+  "main": "./src/rutap.js",
+  "scripts": {
+    "start": "node ./src/rutap.js",
+    "start-ar": "node ./src/rutap.js -ar"
+  },
+  "author": "HwaHyang, Tilto of Develable",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "discord.js": "^11.5.1",
+    "json": "^9.0.6",
+    "mkdirp": "^1.0.3",
+    "moment": "^2.24.0",
+    "mysql": "^2.18.1",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {}
+}

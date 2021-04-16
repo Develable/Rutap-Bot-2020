@@ -1,0 +1,79 @@
+{
+    "activated":"false",
+    "prefix":"!",
+    last_used:"YYYY-MM-DD HH:MM:SS",
+    "custom_command" : [
+        "cmdname" : {
+            "commandPermission" : "",
+            "commandAction" : ""
+        }
+    ],
+    "eventUse" : {
+        "memberJoin": false,
+        "memberLeft": false
+    }
+    "eventMsg": {
+        "OnMemberJoin" : {
+            "useEmbed" : false,
+            "messageInf": "TEXT" # Embed 안 쓸 경우임!
+            "messageInf" : { # Embed 쓸 경우임!
+                "Title" : "EmbTitle",
+                "Des" : "EmbTitle",
+                "Footer" : {
+                    "ImgLnk" : "",
+                    "Text" : ""
+                }
+            }
+        }
+        "OnMemberLeft" : {
+            "useEmbed" : false,
+            "messageInf": "TEXT" # Embed 안 쓸 경우임!
+            "messageInf" : { # Embed 쓸 경우임!
+                "Title" : "EmbTitle",
+                "Des" : "EmbTitle",
+                "Footer" : {
+                    "ImgLnk" : "",
+                    "Text" : ""
+                }
+            }
+        }
+    },
+    "logging" : {
+        "use": true
+    },
+    "notice_webhookURL":"",
+    "warninf": {
+        "maxWarn": 10,
+        "Userid": {
+            "warnCount": 8
+            "warnReason": {
+                # 경고 이벤트 발생시마다 아래꺼 한세트씩 append
+                # 경고 초기화 돌리면 해당 이벤트 제외 모든 기록 제거
+                "timestamp": {
+                    "Userid": "부여자ID",
+                    "Reason": "부여 사유"
+                }
+            }
+        }
+    },
+    "voteinf": {
+        "use": false,
+        "voteCount" : 0, # 진행중인 투표 개수
+        "voteIDCount" : 1, # 지금까지 진행된 투표수 + 1
+        "voteList" : {
+            "VoteTitle" : {
+                "Num": 0, # 투표 고유번호 (길드별 분리)
+                "resultPrivate": true, # true면은 끝낸놈만 확인가능
+                "liveCheck": true, # true면은 실시간으로 투표현황 확인가능 :: 위에놈이 false면은 이거 또한 관리자 전용이 되는거고
+                "voteStarter": 000000000,
+                "voteDetail": "Des",
+                "voteType": "UD", # UD : UpDown
+                "voteInfo": {
+                    "upVote" : 324,
+                    "downVote" : 432
+                },
+                "voted_users" : ["usrid1", "usrid2"]
+            }            
+        }
+    }
+}
